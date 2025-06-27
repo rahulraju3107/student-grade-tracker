@@ -18,7 +18,7 @@ int main(void)
     // Input names and marks for students
     // Display average, highest, and lowest grades
 
-    printf("This program provides grade statics for student.\n\n");
+    printf("This program provides grade statistics for student.\n\n");
 
     // Prompt for number of students
     int n;
